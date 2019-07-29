@@ -44,4 +44,4 @@ The size of the bubble is the Centrality, while the more movies the Actors starr
 
 See how many franchises you can identify!
 
-[!network][network.png]
+[!network](network.png)
